@@ -27,10 +27,7 @@ let fire =  obj => {
     }else {
         return 'fire!!'
     }
-
-    return arr
-
 }
-// console.log(1)
+
 console.log(fire(a));
 console.log(fire(b))
